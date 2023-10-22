@@ -1,0 +1,26 @@
+body
+{
+   background: blue;
+}
+
+#heading
+{
+   color: rgb(27, 239, 140);  
+   size: 25px; 
+}
+
+#bird
+{
+   color: red !important;
+   padding: 5px;
+}
+
+#goat
+{
+   padding: 5px;
+}
+
+#button
+{
+   color: grey !important;
+}
